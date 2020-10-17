@@ -1,0 +1,22 @@
+html{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after{
+  box-sizing: inherit;
+  margin: inherit;
+  padding: inherit;
+}
+
+section{
+background:yellow;
+}
+
+h2{
+/* margin-top: 0; */
+  background:red;
+}
